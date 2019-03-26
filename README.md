@@ -7,4 +7,12 @@ A [TJBot](https://ibmtjbot.github.io) is an open source project designed to help
 
 [Node.js Introduction](https://www.w3schools.com/nodejs/nodejs_intro.asp)
 
+To use the TJBot IBM Watson services, you will need an [IBM Cloud account](https://console.bluemix.net).
+
+You will need to provision the lite versions of the following services:
+* Speech to Text
+* Text to Speech
+* Watson Assistant
+* Language Translator
+
 
