@@ -15,4 +15,16 @@ You will need to provision the lite versions of the following services:
 * Watson Assistant
 * Language Translator
 
+Run the [simulator](https://my-tjbot.mybluemix.net)
 
+Click on the env tab and add the following environment variables with the values from the serivces created above.
+
+```javascript
+TEXT_TO_SPEECH_API_KEY=
+SPEECH_TO_TEXT_API_KEY=
+ASSISTANT_API_KEY=
+ASSISTANT_WORKSPACE_ID=
+LANGUAGE_TRANSLATOR_API_KEY=
+```
+
+Copy the source code from one of the javascript examples files in this repository to the app.js tab in the simulator tab and then click on the run icon.
