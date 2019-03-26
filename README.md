@@ -25,6 +25,6 @@ ASSISTANT_API_KEY=
 ASSISTANT_WORKSPACE_ID=
 LANGUAGE_TRANSLATOR_API_KEY=
 ```
-Click the Docs tab in the simulator and click on the source tab for specific function to copy the source code the app.js tab.  Click on the run icon to test the functionality.
+Open the Docs tab in the simulator and then click on the source code for a specific function you would like to test to copy the source code to the app.js tab.  Click on the run icon to test the functionality.
 
 Copy the source code from one of the javascript examples files in this repository to the app.js tab in the simulator and then click on the run icon.
